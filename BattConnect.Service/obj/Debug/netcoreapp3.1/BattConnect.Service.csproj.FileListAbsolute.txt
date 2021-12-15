@@ -1,0 +1,10 @@
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Service.deps.json
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Service.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Service.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Service.AssemblyInfoInputs.cache
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Service.AssemblyInfo.cs
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Service.csproj.CoreCompileInputs.cache
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Service.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Service.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Service.csproj.AssemblyReference.cache

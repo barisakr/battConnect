@@ -1,0 +1,13 @@
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Services.deps.json
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Services.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Services.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.AssemblyInfoInputs.cache
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.AssemblyInfo.cs
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.csproj.CoreCompileInputs.cache
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Core.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\bin\Debug\netcoreapp3.1\BattConnect.Core.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.csproj.AssemblyReference.cache
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Service\obj\Debug\netcoreapp3.1\BattConnect.Services.csproj.CopyComplete
