@@ -7,3 +7,4 @@ C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Core\obj\Debug\netcoreapp3.1\BattConnect.Core.csproj.CoreCompileInputs.cache
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Core\obj\Debug\netcoreapp3.1\BattConnect.Core.dll
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Core\obj\Debug\netcoreapp3.1\BattConnect.Core.pdb
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Core\obj\Debug\netcoreapp3.1\BattConnect.Core.csproj.AssemblyReference.cache

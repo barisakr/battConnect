@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BattConnect.Services/1.0.0": {
+        "dependencies": {
+          "BattConnect.Core": "1.0.0"
+        },
+        "runtime": {
+          "BattConnect.Services.dll": {}
+        }
+      },
+      "BattConnect.Core/1.0.0": {
+        "runtime": {
+          "BattConnect.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattConnect.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattConnect.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

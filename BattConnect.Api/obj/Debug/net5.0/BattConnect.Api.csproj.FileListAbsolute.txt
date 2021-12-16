@@ -15,7 +15,6 @@ C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\BattConnect.Api.AssemblyInfoInputs.cache
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\BattConnect.Api.AssemblyInfo.cs
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\BattConnect.Api.csproj.CoreCompileInputs.cache
-C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\BattConnect.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\BattConnect.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\scopedcss\bundle\BattConnect.Api.styles.css
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\staticwebassets\BattConnect.Api.StaticWebAssets.Manifest.cache
@@ -64,3 +63,4 @@ C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\bin\Debug\net5.0\BattConnect.Services.pdb
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\baris.akar\OneDrive - Doğuş Holding A.Ş\Masaüstü\Projs\BattConnect\BattConnect\BattConnect.Api\obj\Debug\net5.0\BattConnect.Api.MvcApplicationPartsAssemblyInfo.cs
